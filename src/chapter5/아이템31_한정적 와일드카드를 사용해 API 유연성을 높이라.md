@@ -1,5 +1,4 @@
 ## 아이템31. 한정적 와일드 카드를 사용해 API 유연성을 높이라 
-<hr>
 
 ```java
 public class Stack<E>{
